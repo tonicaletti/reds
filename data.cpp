@@ -2,6 +2,8 @@
 
 int main()
 {
-	std::cout << "gittt";
-	return 0;
+    std::cout << "gittt";
+
+    std::cout << "Mod";
+    return 0;
 }
